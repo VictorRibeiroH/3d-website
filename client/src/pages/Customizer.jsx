@@ -38,7 +38,7 @@ const Customizer = () => {
           </motion.div>
 
           <motion.div
-            className='absolute z-10 top5 right-5'
+            className="absolute z-10 top-5 right-5"
             {...fadeAnimation}
           >
             <CustomButton 
